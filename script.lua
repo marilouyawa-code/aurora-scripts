@@ -1,4 +1,4 @@
-local gui = script.Parent
+local gui = game:GetService("CoreGui")
 
 -- Main Window
 local MainFrame = Instance.new("Frame")
